@@ -1,4 +1,19 @@
-# Encyklopedia
+# EncyklopediaJS
+
+## About
+```
+EncyklopediaJS is a modified udemy course (Build Web Apps with Vue JS 3 & Firebase)
+website which started as a blog with no authorization.
+
+Changes made:
+  - Remake of website style
+  - Added authorization
+  - Modified tag adding
+  - Added slider
+  - Added edition of posts/articles
+  - Adeed searchbar
+  - Canvas made loading animation
+```
 
 ## Project setup
 ```
