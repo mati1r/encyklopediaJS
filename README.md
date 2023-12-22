@@ -9,7 +9,7 @@ Changes made:
   - Remake of website style
   - Added authorization
   - Modified tag adding
-  - Added slider
+  - Added image slider
   - Added edition of posts/articles
   - Adeed searchbar
   - Canvas made loading animation
