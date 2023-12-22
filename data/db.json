@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "welcome to the blog",
+      "body": "Lorem ipsum",
+      "tags": [
+        "coding",
+        "webdev",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "top 5 css tips",
+      "body": "Flex forever",
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ]
+    },
+    {
+      "title": "Nowy post",
+      "body": "dfasdfhgrwd",
+      "tags": [
+        "tag1",
+        "tag2"
+      ],
+      "id": 3
+    },
+    {
+      "title": "nowe222",
+      "body": "dsafasf",
+      "tags": [
+        "html",
+        "css",
+        "nowe"
+      ],
+      "id": 4
+    },
+    {
+      "title": "Nowy3",
+      "body": "fsdgdax",
+      "tags": [
+        "html",
+        "css",
+        "c#"
+      ],
+      "id": 5
+    }
+  ]
+}
