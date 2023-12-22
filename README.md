@@ -1,4 +1,4 @@
-# blog
+# Encyklopedia
 
 ## Project setup
 ```
@@ -17,3 +17,8 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Visit website here
+```
+https://udemy-vue-sites-49c50.web.app/
+```
